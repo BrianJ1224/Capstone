@@ -37,7 +37,7 @@ Our goal is to accuratly predict high speed train prices this way the travel com
 This data came from Kaggle. The data was scrapped by the Gurus, a team of data scientists, and the data was uploaded onto Kaggle.
 The data that we obtained came from Kaggle.
 
-The metrics we decided to use are $r^2$ , Adjusted $r^2$ , and aboluste mean error. $r^2$  was decided as the primary metric because we wanted all the prices to be on the same scale. If a price is €10 but we predict €20, we more than double the price. If we a price is €200 but we predict €210, we are more accurate. We wanted everything to be on the same scale. Adjusted $r^2$  was looked at after as we wanted to look at every indepdent value. This was another was to check our model. The third metric that we looked at was Absolute Mean Squared. This was looked at as we wanted to see how accurate we are to our mean price.
+The metrics we decided to use are r^2 , Adjusted r^2 , and aboluste mean error. r^2  was decided as the primary metric because we wanted all the prices to be on the same scale. If a price is €10 but we predict €20, we more than double the price. If we a price is €200 but we predict €210, we are more accurate. We wanted everything to be on the same scale. Adjusted r^2  was looked at after as we wanted to look at every indepdent value. This was another was to check our model. The third metric that we looked at was Absolute Mean Squared. This was looked at as we wanted to see how accurate we are to our mean price.
 
 By making a model to predict the high speed train prices in Spain, we were able to discover that certain features affect the ticket price as well as the time when you buy tickets.
 
@@ -58,7 +58,7 @@ We are able to predict the correct prices of a high speed train ticket in Spain 
 I would recommend that data should be analyzed that containts the prices if a person buy a ticket one week in advance versus one month in advance. By having this data, we are able to predict when the customers should buy a ticket.
 
 ## Sources
--Adjusted $r^2$
+-Adjusted r^2
  - https://www.programcreek.com/python/example/89256/sklearn.metrics.r2_score
  
 -Spain graph using folium
