@@ -60,3 +60,5 @@ I would recommend that data should be analyzed that containts the prices if a pe
 ## Sources
 -Adjusted $r^2$
  - https://www.programcreek.com/python/example/89256/sklearn.metrics.r2_score
+-Spain graph using folium
+ - https://python-visualization.github.io/folium/quickstart.html
