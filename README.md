@@ -21,7 +21,7 @@ Having prices vary so much, we are tasked with predicitng the ticket prices of t
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
-|insert_date|date|renfe|date data was crapped|
+|insert_date|date|renfe|date data was scrapped|
 |origin|object|renfe|departure city|
 |destination|object|renfe|arrival city|
 |start_date|date|renfe|departure date|
