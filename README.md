@@ -6,7 +6,7 @@
 #### [Jupyter Notebook](/code/project_notebook.ipynb)
 
 <h1>Table of Contents<span class="tocSkip"></span></h1>
-<div class="toc"><ul class="toc-item"><li><span><a href="#Best-Time-to-Buy-High-Speed-Train-Ticket" data-toc-modified-id="Best-Time-to-Buy-High-Speed-Train-Ticket-1">Best Time to Buy High Speed Train Ticket</a></span><ul class="toc-item"><li><span><a href="#Problem-Statement" data-toc-modified-id="Problem-Statement-2">Problem Statement</a></span></li><li><span><a href="#Executive-Summary" data-toc-modified-id="Executive-Summary-3">Executive Summary</a></span></li><li><span><a href="#Model-Selection" data-toc-modified-id="Model-Selection-9">Model Selection</a></span></li><li><span><a href="#Conclusion" data-toc-modified-id="Conclusion-10">Conclusion</a></span></li><li><span><a href="#Recomendations" data-toc-modified-id="Recomendations-11">Recomendations</a></span></li><li><span><a href="#References" data-toc-modified-id="References-12">References</a></span></li></ul></div>
+<div class="toc"><ul class="toc-item"><li><span><a href="#Problem-Statement" data-toc-modified-id="Problem-Statement-2">Problem Statement</a></span></li><li><span><a href="#Executive-Summary" data-toc-modified-id="Executive-Summary-3">Executive Summary</a></span></li><li><span><a href="#Model-Selection" data-toc-modified-id="Model-Selection-9">Model Selection</a></span></li><li><span><a href="#Conclusion" data-toc-modified-id="Conclusion-10">Conclusion</a></span></li><li><span><a href="#Recomendations" data-toc-modified-id="Recomendations-11">Recomendations</a></span></li><li><span><a href="#References" data-toc-modified-id="References-12">References</a></span></li></ul></div>
 
 ## Problem Statement
 
