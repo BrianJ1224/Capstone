@@ -58,7 +58,7 @@ We are able to predict the correct prices of a high speed train ticket in Spain 
 I would recommend that data should be analyzed that containts the prices if a person buy a ticket one week in advance versus one month in advance. By having this data, we are able to predict when the customers should buy a ticket.
 
 ## Sources
--Adjusted $r^2$
+- Adjusted $r^2$
  - https://www.programcreek.com/python/example/89256/sklearn.metrics.r2_score
--Spain graph using folium
+- Spain graph using folium
  - https://python-visualization.github.io/folium/quickstart.html
